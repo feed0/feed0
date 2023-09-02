@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Fitness apss
+- 🔭 I’m currently working on a Fitness app
 - 🌱 I’m currently learning Swift and Flutter
 - 👯 I’m looking to collaborate on Graph algorithms
 
