@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Fitness apss
+- 🌱 I’m currently learning Swift and Flutter
+- 👯 I’m looking to collaborate on Graph algorithms
 
 <!--
 **feed0/feed0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
