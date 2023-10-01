@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a Fitness app
 - 🌱 I’m currently learning Swift and Flutter
-- 👯 I’m looking to collaborate on Graph algorithms
+- 👯 I’m looking to collaborate on Graphs algorithms
 
 <div>
   
