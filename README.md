@@ -32,8 +32,7 @@ and then deploying these to perhaps help my closer friends.
 <div align="center" >
 
 ## Highlights
-
-Check out my [MiCard](https://github.com/feed0/dicee) and [Dicee](https://github.com/feed0/micard) apps built with Flutter on the pinned repositories bellow.
+🐦 Flutter apps: [MiCard](https://github.com/feed0/dicee) and [Dicee](https://github.com/feed0/micard)<br>
 
 <div>
 
