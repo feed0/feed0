@@ -9,7 +9,8 @@ and then deploying these to perhaps help my closer friends.
 🔭 Prototyping a Fitness app<br>
 🌱 Learning Swift and Flutter
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=feed0&show_icons=true)
+[![feed0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feed0&show_icons=true&theme=onedark&title_color=FF6200&text_color=FCB98F&icon_color=FCB98F&bg_color=73533F)](https://github.com/feed0)
+
 
 </div>
 
