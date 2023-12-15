@@ -1,12 +1,19 @@
-## Hi there 👋
-- 🔭 I’m currently working on a Fitness app
-- 🌱 I’m currently learning Swift and Flutter
-- 📫 Reach me at: 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fecfo/)
-
-## Top Langs
 <div align="center" >
+
+## Hi there 👋
+
+I am a half way Computer Scientist bachelor based in Brazil. <br>
+I am looking forward to develop apps to make my life easier at a first instance,<br>
+and then deploying these to perhaps help my closer friends. 
+
+🔭 Prototyping a Fitness app<br>
+🌱 Learning Swift and Flutter
+
+</div>
+
+<div align="center">
+  
+## Top Langs
   
   [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/feed0?tab=repositories&q=&type=&language=swift&sort=) [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/feed0?tab=repositories&q=flutter&type=&language=&sort=) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/feed0?tab=repositories&q=&type=&language=java&sort=) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/feed0?tab=repositories&q=&type=&language=python&sort=)
   
@@ -19,11 +26,19 @@
 
 </div>
 
+<div align="center" >
+
 ## Highlights
 
-Check out my [MiCard](https://github.com/feed0/dicee) and [Dicee](https://github.com/feed0/micard) apps built with Flutter on the pinned repositories bellow:
+Check out my [MiCard](https://github.com/feed0/dicee) and [Dicee](https://github.com/feed0/micard) apps built with Flutter on the pinned repositories bellow.
+
+<div>
 
 <!--
+- 📫 Reach me at: 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/fecfo/)
+
 **feed0/feed0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
