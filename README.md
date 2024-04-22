@@ -16,6 +16,14 @@ and then making decisions to better make business.
 
 <div align="center">
   
+## My Work on Kaggle's machine learning platform<br>
+
+[Phillip Edward's Kaggle Profile](https://www.kaggle.com/philipedward/code)
+
+</div>
+
+<div align="center">
+  
 ## Top Langs
   
   [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/feed0?tab=repositories&q=&type=&language=swift&sort=) [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/feed0?tab=repositories&q=flutter&type=&language=&sort=) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/feed0?tab=repositories&q=&type=&language=java&sort=) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/feed0?tab=repositories&q=&type=&language=python&sort=)
