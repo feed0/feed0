@@ -7,7 +7,7 @@ I am looking forward to learnig data analysis,<br>
 and then making decisions to better make business. 
 
 🔭 Prototyping a Fitness app<br>
-🌱 Learning Swift and Flutter
+🌱 Learning Pandas and R lang
 
 [![feed0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feed0&show_icons=true&theme=onedark&title_color=FF6200&text_color=FCB98F&icon_color=FCB98F&bg_color=73533F)](https://github.com/feed0)
 
