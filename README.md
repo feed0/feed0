@@ -3,8 +3,8 @@
 ## Hi there 👋
 
 I am a half way Computer Scientist bachelor based in Brazil. <br>
-I am looking forward to develop apps to make my life easier at a first instance,<br>
-and then deploying these to perhaps help my closer friends. 
+I am looking forward to learnig data analysis,<br>
+and then making decisions to better make business. 
 
 🔭 Prototyping a Fitness app<br>
 🌱 Learning Swift and Flutter
