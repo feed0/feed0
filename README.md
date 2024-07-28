@@ -2,9 +2,7 @@
   
   ## Hi there 👋
   
-  **Finance**, **banking** and **investments** are my captivations.<br>
-  To deepen my knolege on stocks analysis, I decided to take a bachelor's degree in CS.<br>
-  So far my favourite subjects have been `databases` and `machine learning`.<br>
+  **Finance**, **banking** and **investments** are my captivations. Thus, to deepen my knolege on stocks analysis, I decided to take a bachelor's degree in CS. Ultimately, my favourite subjects have been `databases` and `machine learning`.<br>
 </div>
 
 <!--
