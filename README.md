@@ -5,6 +5,7 @@
   **Finance**, **banking** and **investments** are my captivations. Thus, to deepen my knolege on stocks analysis, I decided to take a bachelor's degree in CS. Ultimately, my favourite subjects have been `databases` and `machine learning`.<br>
 </div>
 
+Check out my [⭐️ star lists](https://github.com/feed0?tab=stars)
 <!--
 <div>
   
