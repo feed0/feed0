@@ -9,7 +9,9 @@
 
 Check out my [⭐️ star](https://github.com/feed0?tab=stars) lists
 
-Speacilly my [🐦‍🔥 Swift UI Apple Developer Tutorials](https://github.com/stars/feed0/lists/apple-developer-tutorial) list
+> Speacilly my [🐦‍🔥 Swift UI Apple Developer Tutorials](https://github.com/stars/feed0/lists/apple-developer-tutorial) list 
+
+ > As well as my [🏛️ Swift Design Patterns](https://github.com/stars/feed0/lists/swift-design-patterns) list
 <!--
 <div>
   
