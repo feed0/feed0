@@ -13,7 +13,7 @@ Check out my [⭐️ star](https://github.com/feed0?tab=stars) lists
 
  > As well as my [🏛️ Swift Design Patterns](https://github.com/stars/feed0/lists/swift-design-patterns) list
 
-> And dont forget my LeetCode problem solutions in [🔥 LeetCodeCLT](https://github.com/stars/feed0/lists/leetcode) repo
+> And dont forget my LeetCode problem solutions in [🔥 LeetCode](https://github.com/stars/feed0/lists/leetcode) list
 <!--
 <div>
   
